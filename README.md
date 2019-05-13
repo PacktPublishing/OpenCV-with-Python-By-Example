@@ -1,6 +1,6 @@
 # OpenCV with Python By Example 
 
-<a href="https://prod.packtpub.com/application-development/opencv-python-example?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="OpenCV with Python By Example " height="256px" align="right"></a>
+<a href="https://prod.packtpub.com/application-development/opencv-python-example?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/3/9/3932os_opencv20with20python20by20example_.jpg" alt="OpenCV with Python By Example " height="256px" align="right"></a>
 
 This is the code repository for [OpenCV with Python By Example ](https://prod.packtpub.com/application-development/opencv-python-example?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
