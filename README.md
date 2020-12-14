@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/opencv-with-python-by-example/9781785283932)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1785283936).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # OpenCV with Python By Example 
 
 <a href="https://prod.packtpub.com/application-development/opencv-python-example?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/3/9/3932os_opencv20with20python20by20example_.jpg" alt="OpenCV with Python By Example " height="256px" align="right"></a>
